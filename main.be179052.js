@@ -10165,7 +10165,7 @@
                                         className: "ant-form ant-form-horizontal css-m4timi",
                                         onSubmit: e => {
                                             e.preventDefault(),
-                                                fetch("https://formspree.io/f/mqaedydll", {
+                                                fetch("https://formspree.io/f/mqaedydl", {
                                                     method: "POST",
                                                     headers: {
                                                         "Content-Type": "application/json"
